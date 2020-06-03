@@ -1,2 +1,3 @@
-# forms
-Forms management system for the club
+# Hackforms
+
+HackSlash's very own form management system!
