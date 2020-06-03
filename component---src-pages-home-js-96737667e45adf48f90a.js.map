@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/home.js"],"names":["Home"],"mappings":"2FAAA,gCAMeA,UAJF,WACX,OAAO","file":"component---src-pages-home-js-96737667e45adf48f90a.js","sourcesContent":["import React from 'react'\n\nconst Home = () => {\n  return(<div></div>)\n}\n\nexport default Home"],"sourceRoot":""}

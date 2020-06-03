@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(n,e,t){"use strict";t.r(e);var o=t("q1tI"),i=t.n(o);e.default=function(){return i.a.createElement("div",null,"Please sign in before continuing",i.a.createElement("button",null,"Use Google"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-46590cffcf40302c7410.js.map

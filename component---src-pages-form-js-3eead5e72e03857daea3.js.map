@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/form.js"],"names":["Form"],"mappings":"6FAAA,gCAMeA,UAJF,WACX,OAAQ","file":"component---src-pages-form-js-3eead5e72e03857daea3.js","sourcesContent":["import React from 'react'\n\nconst Form = () => {\n  return (<div></div>)\n}\n\nexport default Form;"],"sourceRoot":""}

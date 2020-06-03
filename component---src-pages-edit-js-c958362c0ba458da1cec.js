@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{BmoW:function(t,n,i){"use strict";i.r(n);i("q8oJ"),i("8npG");var o=i("q1tI"),c=i.n(o),e=i("PJ8D");n.default=function(t){Object(e.a)(t.location);return c.a.createElement("div",null,"Edit form + ",t.location.toString())}},PJ8D:function(t,n,i){"use strict";i("HQhv"),i("sPse"),i("q1tI");n.a=function(t){var n=t.search.slice(1),i=""!==n?n.split("&"):[],o={};return i.forEach((function(t){o[t.split("=")[0]]=t.split("=")[1]})),o}}}]);
+//# sourceMappingURL=component---src-pages-edit-js-c958362c0ba458da1cec.js.map
